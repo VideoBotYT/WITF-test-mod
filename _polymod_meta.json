@@ -1,0 +1,10 @@
+{
+"title": "Testing WITF",
+"description": "Read the title bitch",
+"contributors": [{"name":"VideoBot", "role":"Creator"}],
+"homepage":"https://github.com/Hzardous2468/What-In-The-Funkin",
+"api_version":"0.7.5",
+"mod_version":"1.0.0",
+"dependencies":{"_WITF - Essenstials": "*"},
+"license":"CC BY-NC-ND "
+}
