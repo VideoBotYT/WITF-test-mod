@@ -13,9 +13,7 @@
   "playData": {
     "songVariations": [    ],
     "difficulties": [
-      "easy",
-      "normal",
-      "hard"
+      "normal"
     ],
     "characters": {
       "player": "nobody",
